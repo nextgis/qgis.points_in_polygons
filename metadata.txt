@@ -1,0 +1,20 @@
+[general]
+name=PointsInPolygons
+description=Calculate the number of points in the polygon
+category=Processing
+version=0.0.5
+qgisMinimumVersion=2.8
+
+author=NextGIS
+email=info@nextgis.org
+
+icon=
+
+tags=
+
+homepage=
+tracker=
+repository=
+
+experimental=True
+deprecated=False
